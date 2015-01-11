@@ -1,0 +1,20 @@
+{
+  "name": "Internet Phone",
+  "description": "WebRTC to SIP Internet Phone",
+  "version": "0.1.0",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/style/icons/icon_16.png",
+    "48": "/style/icons/icon_48.png",
+    "128": "/style/icons/icon_128.png",
+    "256": "/style/icons/icon_256.png",
+    "512": "/style/icons/icon_512.png"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "developer": {
+    "name": "Gerard Braad",
+    "url": "http://gbraad.nl"
+  }
+}

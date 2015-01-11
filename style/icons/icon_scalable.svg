@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="icon_scalable.svg"
+   inkscape:export-filename="/home/gbraad/Projects/FxOS-SIPPhone/style/icons/icon_16.png"
+   inkscape:export-xdpi="2.8299999"
+   inkscape:export-ydpi="2.8299999">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="232.95734"
+     inkscape:cy="210.23103"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="873"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36222)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:5.31126204999999985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2989"
+       sodipodi:cx="1.4285715"
+       sodipodi:cy="1.9999998"
+       sodipodi:rx="267.14285"
+       sodipodi:ry="267.14285"
+       d="M 268.57142,1.9999998 C 268.57142,149.53892 148.9675,269.14285 1.4285715,269.14285 -146.11035,269.14285 -265.71428,149.53892 -265.71428,1.9999998 c 0,-147.5389198 119.60393,-267.1428498 267.1428515,-267.1428498 147.5389285,0 267.1428485,119.60393 267.1428485,267.1428498 z"
+       transform="matrix(0.94139584,0,0,0.94139584,254.65515,794.47943)"
+       inkscape:export-filename="/home/gbraad/Projects/B2G-FxOS-hardware-system/style/icons/icon_512.png"
+       inkscape:export-xdpi="90.709999"
+       inkscape:export-ydpi="90.709999" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3759"
+       sodipodi:cx="0"
+       sodipodi:cy="1.9999998"
+       sodipodi:rx="212.85715"
+       sodipodi:ry="212.85715"
+       d="M 212.85715,1.9999998 C 212.85715,119.55776 117.55776,214.85715 0,214.85715 c -117.55776,0 -212.85715,-95.29939 -212.85715,-212.8571502 0,-117.5577598 95.29939,-212.8571498 212.85715,-212.8571498 117.55776,0 212.85715,95.29939 212.85715,212.8571498 z"
+       transform="matrix(0.93366501,0,0,0.93366501,256,794.49489)" />
+    <g
+       id="g5810">
+      <rect
+         y="661.47119"
+         x="181.48311"
+         height="269.7821"
+         width="149.0338"
+         id="rect4581"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff8c00;stroke-width:14.96446322999999978;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         style="fill:#ff8c00;stroke:none;fill-opacity:1"
+         id="path3772"
+         d="m 182.57585,654.72144 -0.0537,282.60712 h 146.9557 V 654.72144 l -146.90201,0 z m 59.2938,19.7825 c 0,-1.55999 1.26608,-2.82607 2.82608,-2.82607 h 22.60856 c 1.56282,0 2.82608,1.26608 2.82608,2.82607 v 5.65214 c 0,1.55999 -1.26326,2.82607 -2.82608,2.82607 h -22.60856 c -1.56,0 -2.82608,-1.26608 -2.82608,-2.82607 v -5.65214 z m 14.13036,248.69426 c -7.80278,0 -14.13036,-6.32474 -14.13036,-14.13035 0,-7.80561 6.32758,-14.13036 14.13036,-14.13036 7.80561,0 14.13036,6.32475 14.13036,14.13036 0,7.80561 -6.32475,14.13035 -14.13036,14.13035 z m 62.17357,-42.39106 H 193.9621 V 699.93858 h 124.21148 v 180.86856 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3774"
+       transform="matrix(2.8260712,0,0,2.8260712,114.69645,654.72144)">
+      <path
+         d="m 50,42 c -4.963,0 -9.463,2.019 -12.722,5.278 l 2.827,2.827 C 42.64,47.57 46.14,46 50,46 c 3.859,0 7.359,1.57 9.895,4.105 l 2.827,-2.827 C 59.463,44.019 54.963,42 50,42 z"
+         id="path3776"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 50,50 c -2.757,0 -5.257,1.121 -7.068,2.933 l 2.827,2.827 C 46.846,54.673 48.346,54 50,54 c 1.654,0 3.154,0.673 4.24,1.76 l 2.827,-2.827 C 55.257,51.121 52.757,50 50,50 z"
+         id="path3778"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 50,38 c 6.065,0 11.565,2.467 15.549,6.451 l 2.827,-2.827 C 63.668,36.916 57.168,34 50,34 42.832,34 36.332,36.916 31.624,41.624 l 2.827,2.827 C 38.435,40.467 43.935,38 50,38 z"
+         id="path3780"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
