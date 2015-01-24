@@ -1,8 +1,9 @@
 {
   "name": "Internet Phone",
   "description": "WebRTC to SIP Internet Phone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "launch_path": "/index.html",
+  "appcache_path": "/manifest.appcache",
   "icons": {
     "16": "/style/icons/icon_16.png",
     "48": "/style/icons/icon_48.png",
